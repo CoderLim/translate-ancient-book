@@ -4,3 +4,10 @@
 // node 18
 OPENAI_API_KEY=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 npx tsx index.ts
 ```
+
+## 调试
+```
+// 
+npm install -g typescript
+
+```
